@@ -1,0 +1,5 @@
+{
+    "require": {
+        "boolfly/module-momo-wallet": "^1.0"
+    }
+}
